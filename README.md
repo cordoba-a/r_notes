@@ -1,6 +1,5 @@
 # r_notes
 
-## Description
 ## Description  
 This repository contains a collection of R scripts developed for class projects and personal learning.
 It serves as a comprehensive resource for managing and organizing R code related to data analysis, statistical modeling, and visualization tasks.  
